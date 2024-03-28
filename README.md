@@ -83,7 +83,7 @@ Install this project with:
 
 To run the project, execute the following command:
 
-- npm start
+- npm run dev
 
 ### Run tests
 
